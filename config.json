@@ -1,10 +1,10 @@
 {
   "developers": [],
-  "status": "p!help | pogy.xyz",
+  "status": "online in {servers}",
   "discord": "",
   "dashboard": "true",
   "server": "",
-  "prefix": "p!",
+  "prefix": "!",
   "webhooks": {
     "logs": "",
     "maintenance_logs": "",
